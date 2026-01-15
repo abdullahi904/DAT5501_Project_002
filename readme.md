@@ -1,0 +1,1 @@
+This project analyses Netflix stock risk using financial time-series data and dynamic risk measures to understand how market movements and geopolitical uncertainty affect price behaviour. The aim is to help investors and financial decision-makers better assess and manage Netflix risk under changing economic conditions. 
